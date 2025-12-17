@@ -6,10 +6,10 @@ EEEVA is a hybrid, tool-augmented academic chatbot designed to address informati
 
 Problem Statement:
 Universities store critical academic information across disconnected sources, including:
-PDF syllabi and scanned documents
-DOCX lab manuals and official notices
-CSV timetables and attendance records
-XLSX inventories and administrative data
+1. PDF syllabi and scanned documents
+2. DOCX lab manuals and official notices
+3. CSV timetables and attendance records
+4. XLSX inventories and administrative data
 This fragmentation forces users to manually search across multiple systems, leading to inefficiency, duplicated effort, and inconsistent access to information.
 
 Solution:
@@ -23,16 +23,16 @@ Key Features:
 5. Scalable design suitable for institutional expansion
 
 System Architecture:
-Frontend: Next.js–based conversational interface
-Backend: FastAPI service layer for request routing and tool execution
-AI Layer: LLM-based intent understanding and response synthesis
-Data Layer: Structured and unstructured academic data sources
+1. Frontend: Next.js–based conversational interface
+2. Backend: FastAPI service layer for request routing and tool execution
+3. AI Layer: LLM-based intent understanding and response synthesis
+4. Data Layer: Structured and unstructured academic data sources
 
 Tech Stack:
-Frontend: Next.js, React
-Backend: FastAPI, Python
-AI / NLP: LLM-based reasoning with tool augmentation (Ollama)
-Data Handling: PDF, DOCX, CSV, XLSX processing
+1. Frontend: Next.js, React
+2. Backend: FastAPI, Python
+3. AI / NLP: LLM-based reasoning with tool augmentation (Ollama)
+4. Data Handling: PDF, DOCX, CSV, XLSX processing
 
 Project Status:
 This repository presents the conceptual design and system overview of EEEVA. The implementation is under active development and is not publicly released.
