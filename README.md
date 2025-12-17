@@ -19,7 +19,7 @@ EEEVA integrates a chat-based frontend with a tool-aware backend that dynamicall
 
 Key Features:
 
-1.Natural language academic queries
+1. Natural language academic queries
 2. Multi-format document handling (PDF, DOCX, CSV, XLSX)
 3. Tool-augmented responses to reduce hallucinations
 4. Modular and extensible system architecture
