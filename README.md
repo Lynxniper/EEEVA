@@ -10,6 +10,7 @@ Universities store critical academic information across disconnected sources, in
 2. DOCX lab manuals and official notices
 3. CSV timetables and attendance records
 4. XLSX inventories and administrative data
+
 This fragmentation forces users to manually search across multiple systems, leading to inefficiency, duplicated effort, and inconsistent access to information.
 
 Solution:
